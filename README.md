@@ -12,4 +12,5 @@ The model definition is in vit.py, and the trained model parameters is in projec
 The model definition is in slvit.py, and the trained model parameters is in project2_SLVit_final_smalldataset.pt
 ### 2.4 SPT+LSA+ViT
 The model definition is in traintest.py, and the trained model parameters is in project2_ResVit_final_smalldataset.pt
-## 3 
+## 3 pt files
+pt files are in Google Drive https://drive.google.com/drive/folders/1NPhnDNp3wzMgKASbUZaT2VOsVFkbT3z0?usp=sharing because of their large size
